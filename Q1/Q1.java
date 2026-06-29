@@ -57,5 +57,6 @@ public class Q1 {
     for (int elem : arr) {
       System.out.print(elem + " ");
     }
+    sc.close();
   }
 }
