@@ -24,7 +24,7 @@ public class Solution {
   public static int power(int a, int b) {
     int res = 0;
 
-    if (a == 1) return 1;
+    if (b == 0) return 1;
     if (b == 1) return a;
 
     if (b > 1) {
