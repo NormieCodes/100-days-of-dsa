@@ -20,7 +20,6 @@ Found at index 2
 Comparisons = 3
 
 Explanation: Compared with 10, 20, 30 (found at index 2 with 3 comparisons)*/
-
 import java.util.Scanner;
 
 public class Solution {
